@@ -1,7 +1,12 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5e2f0e53-45fd-44c1-a36a-3c7459adcd23"
+       width="700"/>
+</p>
+
 ### Architecture
 
 Floppy disk containing the source code for the Morris Worm, at the Computer History Museum
-The worm's creator, Robert Tappan Morris, is the son of cryptographer Robert Morris, who worked at the NSA. A friend of Morris said that he created the worm simply to see if it could be done,[3] and released it from the Massachusetts Institute of Technology (MIT) in the hope of suggesting that its creator studied there, instead of Cornell. Clifford Stoll, author of The Cuckoo’s Egg, wrote that "Rumors have it that [Morris] worked with a friend or two at Harvard's computing department (Harvard student Paul Graham sent him mail asking for 'Any news on the brilliant project')".[5]
+The worm's creator, Robert Tappan Morris, is the son of cryptographer Robert Morris, who worked at the NSA. A friend of Morris said that he created the worm simply to see if it could be done, and released it from the Massachusetts Institute of Technology (MIT) in the hope of suggesting that its creator studied there, instead of Cornell. Clifford Stoll, author of The Cuckoo’s Egg, wrote that "Rumors have it that [Morris] worked with a friend or two at Harvard's computing department (Harvard student Paul Graham sent him mail asking for 'Any news on the brilliant project')".
 
 The worm exploited several vulnerabilities of targeted systems, including:
 
@@ -32,5 +37,5 @@ Morris was tried and convicted of violating United States Code Title 18 (18 U.S.
 
 The Morris worm has sometimes been referred to as the "Great Worm," due to the devastating effect it had on the Internet at that time, both in overall system downtime and in psychological impact on the perception of security and reliability of the Internet. The name was derived from the "Great Worms" of Tolkien: Scatha and Glaurung.
 
-### author
+### Author
 Robert Tappan Morris (born November 8, 1965) is an American computer scientist and entrepreneur. He is best known for creating the Morris worm in 1988, considered the first computer worm on the Internet.
